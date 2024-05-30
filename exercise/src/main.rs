@@ -18,3 +18,4 @@ fn collatz_length(mut n: i32) -> u32 {
 fn main(){
 	println!("length:{}",collatz_length(2));
 }
+
